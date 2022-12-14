@@ -1,0 +1,70 @@
+    body{background-color: blanchedalmond;
+    color:rgba(6, 10, 128, 0.651)     
+    font-family sans-serif;
+    max-width : 80 ch;
+    margin : 0 auto;/* top and bottom margins are 0 and left right auto */}
+
+    
+    header {font-size: 2.5em; /* 40px/16=2.5em */
+    padding:0 auto;
+    font-family: serif;
+    text-align: center;}​
+
+    nav ul {
+        list-style:none;}
+    
+    h1 {color: rgba(239, 247, 246, 0.823);
+    background-color: rgb(35, 3, 3);
+    margin : 0 auto;/* top and bottom margins are 0 and left right auto */}
+
+    
+    h2 {color:rgba(183, 41, 129, 0.742);
+        max-width : 80 ch;
+        margin : 0 auto;/* top and bottom margins are 0 and left right auto */}
+    
+    h3{color: rgba(223, 229, 228, 0.823);
+    background-color: rgb(35, 3, 3)}
+
+
+    li, div{color:rgba(183, 41, 129, 0.742);}
+
+ ul {margin:0;
+    padding:0;
+    list-style: none;
+    font-family: serif;
+    margin: 20px 300px;}
+
+    nav ul li{
+        display:inline;
+            margin: 0 1em}
+
+   
+    
+    li{display: inline-block;}
+
+    a {color: var(--LN);
+        text-decoration: none;}
+      
+    a:link { text-decoration: none;}
+
+    a:visited { text-decoration: none;}
+    
+    a:hover {
+        border-bottom: 0.1em solid var(--LN);}
+
+    a:active { text-decoration: none;}
+
+    section{color:rgba(183, 41, 129, 0.742);}
+    
+
+
+    footer{font-size:0.5em;
+    font-family: serif;
+    color: rgba(226, 232, 232, 0.823);
+    background-color: rgb(35, 3, 3);
+    padding:0 auto;
+    max-width : 80 ch;
+    margin : 0 auto;/* top and bottom margins are 0 and left right auto */}
+
+    p {font-size: 20px;
+        font-family: serif;}
